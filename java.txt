@@ -1,1 +1,8 @@
 hello saida
+git init -->It creates inialized git repository 
+ex: .git
+
+git add  --> Adds the file changes in the working directory into staging area.By using git add .
+
+git commit -->git commit means commit local staged "working files " into local repository.
+takes all of changes written in the index ,creates a new commit object.
